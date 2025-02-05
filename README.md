@@ -1,4 +1,4 @@
-# Object Detection and Depth Estimation with YOLOv8 and MiDaS
+# Obstacle Avoidance by Integration of YOLOv8 and MiDASv2
 
 This repository combines YOLOv8 for object detection and MiDaS for depth estimation to create a system that identifies objects in a video stream and estimates their distance. It also includes a navigation assistance feature based on the depth map.
 
